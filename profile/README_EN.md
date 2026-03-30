@@ -29,7 +29,7 @@ At Vora IT, we excel in crafting customized software solutions capable of handli
 Let's work together to turn your software ideas into reality! Feel free to reach out to us for inquiries and collaboration opportunities.
 
 - **Email**: voraltda@gmail.com
-- **Website**: [www.crowitconsulting.com](https://www.crowitconsulting.com)
+- **Website**: [www.vorait.com](https://www.vorait.com)
 
 Stay updated with our latest projects and contributions here on GitHub.
 
