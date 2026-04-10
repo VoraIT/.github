@@ -28,8 +28,8 @@ Na Vora IT, destacamo-nos na criação de soluções de software personalizados,
 
 Vamos trabalhar juntos para transformar suas ideias de software em realidade! Não hesite em entrar em contato conosco para consultas e oportunidades de colaboração.
 
-- **E-mail**: voraltda@gmail.com
-- **Website**: [www.vorait.com](https://www.vorait.com)
+- **E-mail**: contato@vora-sys.com
+- **Website**: [www.vora-sys.com](https://www.vora-sys.com)
 
 Mantenha-se atualizado com nossos projetos e contribuições mais recentes aqui no GitHub.
 
